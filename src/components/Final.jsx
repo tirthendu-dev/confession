@@ -120,7 +120,7 @@ export default function Final({ restart }) {
 
             >
 
-                I Like You ❤️
+                A FINAL NOTE ❤️
 
             </motion.h1>
 
@@ -166,7 +166,7 @@ export default function Final({ restart }) {
                 }}
 
             >
-                                Whatever your answer may be...
+                                Whatever yoU may think
 
                 <br /><br />
 
@@ -180,13 +180,14 @@ export default function Final({ restart }) {
 
                 to read my little letter.
 
-                <br /><br />
+                <br />
+                <br />
 
-                I simply wanted you to know
+                I just wanted to be upfront and clear about where I stand. 
 
                 <br />
 
-                how much you mean to me.
+                No expectations, no pressure, just wishing you the absolute best.
 
             </motion.p>
 
