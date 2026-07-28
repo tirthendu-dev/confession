@@ -115,7 +115,7 @@ export default function Final({ restart }) {
                 className="relative z-20 text-center text-6xl md:text-8xl text-rose-500"
 
                 style={{
-                    fontFamily:"Tangerine, cursive",
+                    fontFamily:"Times New Roman",
                 }}
 
             >
@@ -166,7 +166,7 @@ export default function Final({ restart }) {
                 }}
 
             >
-                                Whatever yoU may think
+                Whatever you may think
 
                 <br /><br />
 
@@ -179,9 +179,6 @@ export default function Final({ restart }) {
                 <br />
 
                 to read my little letter.
-
-                <br />
-                <br />
 
                 I just wanted to be upfront and clear about where I stand. 
 

@@ -196,7 +196,23 @@ export default function Letter({ next }) {
 
                             LETTER_BODY,
 
-                            () => setFinished(true)
+                            () => {
+
+    setFinished(true);
+
+    setTimeout(() => {
+
+        paperRef.current?.scrollTo({
+
+            top: paperRef.current.scrollHeight,
+
+            behavior: "smooth"
+
+        });
+
+    }, 250);
+
+}
 
                         ]}
 
