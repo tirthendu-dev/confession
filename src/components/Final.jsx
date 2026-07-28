@@ -115,7 +115,7 @@ export default function Final({ restart }) {
                 className="relative z-20 text-center text-6xl md:text-8xl text-rose-500"
 
                 style={{
-                    fontFamily:"Great Vibes"
+                    fontFamily:"Tangerine, cursive",
                 }}
 
             >
